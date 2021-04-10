@@ -7,7 +7,7 @@ public class main {
 
 		   Scanner in = new Scanner (System.in);
 		   
-		   System.out.println("What do you like to have? Non Veg or Asian or both?");
+		   System.out.println("What ---do you like to have? Non Veg or Asian or both?");
 		   System.out.println("Press 1 for Non Veg, 2 for Asian and 3 for both.");
 		   
 		   int choice = in.nextInt();
